@@ -122,6 +122,8 @@ Please only use these commands for working stand-alone on your own computer with
 
 You can now perform Tekton development locally, just like in the Cloud IDE lab environment.
 
+![Build Status](https://github.com/Prad071996/devops-capstone-project/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+
 ## Author
 
 [John Rofrano](https://www.coursera.org/instructor/johnrofrano), Senior Technical Staff Member, DevOps Champion, @ IBM Research, and Instructor @ Coursera
@@ -133,4 +135,4 @@ Licensed under the Apache License. See [LICENSE](LICENSE)
 ## <h3 align="center"> © IBM Corporation 2022. All rights reserved. <h3/>
 
 
-![Build Status](https://github.com/Prad071996/devops-capstone-project/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+
